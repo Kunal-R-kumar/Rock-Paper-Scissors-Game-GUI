@@ -10,8 +10,10 @@ This simple rock paper scissor game where the computer chooses rock or paper or 
 - **The user will loss in 3 cases :**
   - When user chooses Scissors and computer chooses Rock
   - When user chooses Rock and computer chooses Paper
-  - When user chooses Paper and computer chooses Scissors
+  - When user chooses Paper and computer chooses Scissors.
+  
 **It counts the score for multiple rounds**
+
 It provides 3 buttons having pictures of rock paper and scissor with their title mentioned on it. 
 > User can use keyboard keys :
 >> r for chooosing Rock
