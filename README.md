@@ -15,5 +15,7 @@ This simple rock paper scissor game where the computer chooses rock or paper or 
 It provides 3 buttons having pictures of rock paper and scissor with their title mentioned on it. 
 > User can use keyboard keys :
 >> r for chooosing Rock
+
 >> p for choosing Paper
+
 >> s for choosing Scissors
