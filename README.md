@@ -1,4 +1,4 @@
-# Creation of a GUI based Rock-Paper-Scissors Game using python**
+# Creation of a GUI based Rock-Paper-Scissors Game using python
 This simple rock paper scissor game where the computer chooses rock or paper or scissors on a random basis and follows the simple rules:
 - **The user will win in 3 cases :**
   - When user chooses Rock and computer chooses Scissors
